@@ -15,6 +15,11 @@
 ### 3️⃣ 사용 기술
 ![image](https://github.com/YoJuemGutDuel/.github/assets/89841486/95fc989f-d336-4580-b2b3-400aded6b761)
 
+### 4️⃣ 1분 시연 영상
+https://github.com/YoJuemGutDuel/.github/assets/89841486/d60f596d-0423-4a54-9983-be57ce6f35c0
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
